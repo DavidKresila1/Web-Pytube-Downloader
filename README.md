@@ -8,11 +8,11 @@ To run this application, you need to have Python 3 installed on your system. You
 Clone the repository:
 
 
-  git clone https://github.com/DavidKresila1/Web-Pytube-Downloader.git
+    git clone https://github.com/DavidKresila1/Web-Pytube-Downloader.git
 
 Navigate to the project directory:
 
-  cd Web-Pytube-Downloader
+    cd Web-Pytube-Downloader
 
 Install the required Python packages:
 
